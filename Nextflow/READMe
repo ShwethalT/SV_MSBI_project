@@ -1,0 +1,3 @@
+This is the Nextflow pipeline I implemented for the upstream processing from QC to Somatic Variant Calling. For the Somatic Variant Calling step, the user is advised to make a conda environment titled clairs (check envs for the clairs.yaml). 
+The ClairS tool was built as a directory and is present in my HPC directory with public access enabled. The user can however, compile their own and tweak the command in the somatic variant calling step to point to their own ClairS directory.
+                                                                                                                                                                                                                
